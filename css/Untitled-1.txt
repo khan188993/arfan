@@ -1,0 +1,9 @@
+socail icon,
+portfolio btn,
+contact form,
+portfolio load more page,
+pricing table 
+fiver link add in button,
+contact me part,
+form validation
+preloader
